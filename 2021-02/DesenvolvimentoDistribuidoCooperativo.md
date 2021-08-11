@@ -21,5 +21,32 @@ Ementa em diante;
 Sistema que viabiliza a colaboração de pessoas, na natureza da tarefa (trabalho cooperativo);  
 Não necessariamente precisa ter visão em tempo real
 
+## Suportes para o trabalho coopeativo
+
 *CSEW* - Trabalho Cooperativo Suportado pelo Computador  
-*Groupware* - Software para grupos (em sua natureza - ex: Skype)
+(Computer Supported Cooperative Work)  
+Estudo de conceitos que embasam o trabalho cooperativo, apoiado por sistemas computacionais, **incluindo aplicações sociais.**  
+Multidisciplinar
+
+*Groupware* - Software que apoia o trabalho em grupo - cooperação (em sua natureza - ex: Skype)  
+Aglutinação de diferentes tecnologias em sistemas que objetivam apoiar a comunicação, cooperção, coordenação, negociação ou esolução de problemas.  
+Exige maior preparação para ter mais aceitação das pessoas.
+> Ferramentas de trabalho cooperativo devem prover formas de comunicação.
+
+Trabalho Cooperativo X Trabalho Paralelo  
+Trabalho paralelo não necessariamente precisa de cooperação (cada um faz uma parte individual no mesmo momento).
+
+Trabalho Humano X Trabalho de Agente  
+Agente não necessariamente é humano - máquina/serviço para evitar que humano tenha que fazer alguma coisa.  
+
+Peopleware: caráter pessoal/individual  
+Barreiras da tecnologia: contato humano, visual; diferença entre real e virtual (atitudes, forma da fala, compreensão das conversas)
+
+Equipes multidisciplinares: permitem que sejam considerados diferentes pontos de vista, **para que se formule uma solução que seja aderente a todos;**
+
+Sucesso da equipe depende não só do individual, mas também do nivel de cooperação.
+
+*CSEW*:
+
+- Eficiencia - Tempo, Custo e Qualidade
+- Desafios: Jeitinho brasileiro, distribuição de tarefas, resistencia a mudança;
