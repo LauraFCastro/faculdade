@@ -18,7 +18,7 @@ Sincronização e Controle de concorrência: coordenar (gerenciar) uso de recurs
 Ementa até "Tolerância a falhas"
 2. Sistemas cooperativos  
 Ementa em diante;  
-Sistema que viabiliza a colaboração de pessoas, na natureza da tarefa (trabalho cooperativo);  
+Sistema que viabiliza a colaboração de pessoas, na natureza da tarefa (trabalho cooperativo;  
 Não necessariamente precisa ter visão em tempo real
 
 ## Suportes para o trabalho coopeativo
@@ -50,3 +50,15 @@ Sucesso da equipe depende não só do individual, mas também do nivel de cooper
 
 - Eficiencia - Tempo, Custo e Qualidade
 - Desafios: Jeitinho brasileiro, distribuição de tarefas, resistencia a mudança;
+
+Sistema: conjunto de componentes (nós) interconectadors (ligações)
+
+Falta de um relógio global  
+A coisa mais difícil num sistema distribuido é configurar tempo!  
+Sistema distribuido trabalha num nivel de concorrencia muito alto
+
+Heterogeneidade - componentes tecnologicamente diferentes, desenolvidos em tecnologias diferentes que trabalham entre si
+
+Deve ser aberto para que componentes sejam adicionados ou substituidos
+
+Transparência: usuário não saber que está acessando um sisema distribuido
