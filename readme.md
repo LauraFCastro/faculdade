@@ -1,18 +1,24 @@
-# Trabalhos e Projetos da Faculdade
+# Conteúdos de Faculdade
+
 Engenharia de Software | Engenharia Mecatrônica
 
 ## Inteligencia Computacional
-Processamento de Dados: Numpy, Pandas, Matplotlob, SkLearn, LabelEncoder, Seaborn<br>
-Redes Neurais Artificiais (RNA): SkLearn, KNeighborsRegressor, StandardScaler, MLPClassifier (neural_network), Confusion_matrix<br>
-Orange Canvas: <a href="https://orangedatamining.com/">Processamento de dados e RNA de forma visual</a>
+
+Processamento de Dados: Numpy, Pandas, Matplotlob, SkLearn, LabelEncoder, Seaborn  
+Redes Neurais Artificiais (RNA): SkLearn, KNeighborsRegressor, StandardScaler, MLPClassifier (neural_network), Confusion_matrix  
+Orange Canvas:  [Processamento de dados e RNA de forma visual](https://orangedatamining.com/)
+
 ## Interface com Usuario
-Linguagem utilzada: Java<br>
-Cadastro de Clientes e Cadastro de Veículos: Desenvolvido utilizando JSwing<br>
+
+Linguagem utilzada: Java  
+Cadastro de Clientes e Cadastro de Veículos: Desenvolvido utilizando JSwing  
 App para Calculo de Juros e Desconto: Desenvolvido em Android Studio
+
 ## Persistencia de Objetos
-Banco de Dados (MySQL)<br>
-Linguagem Java<br>
-Interfaces com JSwing<br>
+
+Banco de Dados (MySQL)  
+Linguagem Java  
+Interfaces com JSwing  
 API Hibernate (para persistência)
 
 ## Sistemas Operacionais
@@ -21,32 +27,20 @@ API Hibernate (para persistência)
 - Algoritmos de Escalonamento
 - Regras e problemas no escalonamento
 - Threads
-- Algoritmos implementados: *Jantar dos Filósofos*, *Barbeiro Dorminhoco* e *Aeroporto*
+- Algoritmos implementados: _Jantar dos Filósofos_, _Barbeiro Dorminhoco_ e _Aeroporto_
 
 ## Iniciação Cientícia
+
 ### Dimensionamento de uma Microusina Fotovoltaica com Backup de Baterias
-<ol>
-    <li>
-        <b>Legislação CEMIG e ANEEL</b>
-    </li>
-    <li>
-        <b>Pré-requisitos de dimensionamento</b><br>
-        Posicionamento, angulação, direcionamento.
-    </li>
-    <li>
-        <b>Dimensionamento inicial</b><br>
-        Calculos manuais e com excel
-    </li>
-    <li>
-        <b>Dimensionamento com softwares</b><br>
-        Software para simulação de módulos
-    </li>
-    <li>
-        <b>Adicionando perdas a simulação</b><br>
-        Estudo mais aprofundado das perdas sofridas<br>
-        Finalização do dimensinamento
-    </li>
-    <li>
-        <b>Estudo específico das perdas PID e formas de reversão.</b>
-    </li>
-</ol>
+
+- Legislação CEMIG e ANEEL
+- Pré-requisitos de dimensionamento  
+  Posicionamento, angulação, direcionamento
+- Dimensionamento inicial  
+  Calculos manuais e com excel
+- Dimensionamento com softwares  
+  Software para simulação de módulos
+- Adicionando perdas a simulação  
+  Estudo mais aprofundado das perdas sofridas  
+  Finalização do dimensinamento
+- Estudo específico das perdas PID e formas de reversão.

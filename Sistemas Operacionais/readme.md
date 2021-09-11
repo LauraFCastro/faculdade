@@ -1,29 +1,19 @@
-# Faculdade
+# Sistemas Operacionais
 
-Trabalhos e Projetos da Faculdade - Engenharia de Software
+- Componentes principais (escalonador, kernel, memórias e )
+- Algoritmos de Escalonamento
+- Regras e problemas no escalonamento
+- Threads
 
-## Sistemas Operacionais - Disciplina de Engenharia de Software
+- ## Algoritmos implementados
 
-### Aprendendo sobre Sistemas Operacionais, seu funcionamento e componentes
-
-(em desenvolvimento)
-
-- #### Pontos principais estudados
-
-  - Componentes principais (escalonador, kernel, memórias e )
-  - Algoritmos de Escalonamento
-  - Regras e problemas no escalonamento
-  - Threads
-
-- #### Algoritmos implementados
-
-- ##### Problema dos Filósofos: filosofos.py
+- ### Problema dos Filósofos: filosofos.py
 
   - O problema é estabelecido em uma comunidade isolada de 5 filósofos (0-4);
   - Os filósofos engajam-se somente em duas atividades: pensar e comer;
   - Implemente a solução evitando situações indesejadas como deadlocks e starvation;
 
-- ##### Barbeiro dorminhoco: barbeiro.py
+- ### Barbeiro dorminhoco: barbeiro.py
 
   - Se não há clientes, o barbeiro dorme;
   - Se a cadeira do barbeiro estiver livre, um cliente pode ser atendido imediatamente;
@@ -32,7 +22,7 @@ Trabalhos e Projetos da Faculdade - Engenharia de Software
   - Para implementar o problema, mantenha o barbeiro ocupado enquanto há clientes e descansando caso não haja nenhum;
   - O barbeiro e seus clientes correspondem a threads.
 
-- ##### Trafégo aéreo: aeroporto.py
+- ### Trafégo aéreo: aeroporto.py
 
   - Considere um aeroporto que tem somente uma pista de pouso e decolagem
 
