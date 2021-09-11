@@ -1,2 +1,6 @@
-AnaliseComplexidadeAlgoritmos/.vscode/*
+.vscode/*
+semester_notes/ProcessoDesenvolvimentoSoftware.md
+semester_notes/QualidadeSoftware.md
+semester_notes/simbolosProcesso.png
+complex_alg/tarefa02.cpp
 .markdownlint.json

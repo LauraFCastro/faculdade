@@ -23,7 +23,7 @@ Não necessariamente precisa ter visão em tempo real
 
 ## Suportes para o trabalho coopeativo
 
-*CSEW* - Trabalho Cooperativo Suportado pelo Computador  
+*CSCW* - Trabalho Cooperativo Suportado pelo Computador  
 (Computer Supported Cooperative Work)  
 Estudo de conceitos que embasam o trabalho cooperativo, apoiado por sistemas computacionais, **incluindo aplicações sociais.**  
 Multidisciplinar
@@ -46,7 +46,7 @@ Equipes multidisciplinares: permitem que sejam considerados diferentes pontos de
 
 Sucesso da equipe depende não só do individual, mas também do nivel de cooperação.
 
-*CSEW*:
+*CSCW*:
 
 - Eficiencia - Tempo, Custo e Qualidade
 - Desafios: Jeitinho brasileiro, distribuição de tarefas, resistencia a mudança;
