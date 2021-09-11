@@ -4,7 +4,7 @@
 
 Data Science - Inteligência Computacional
 
-LPIU = Interface com Usuario
+LPIU = Laboratório de Programação de Interface com Usuario
 
 Persistencia de Objetos
 
