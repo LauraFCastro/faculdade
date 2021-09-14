@@ -6,7 +6,7 @@ Data Science - Inteligência Computacional
 
 LPIU = Laboratório de Programação de Interface com Usuario
 
-AnaCompAlg = Análise e Complexidade de Algoritmos
+complex_alg = Análise e Complexidade de Algoritmos
 
 Sistemas Operacionais
 
