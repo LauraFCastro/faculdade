@@ -110,3 +110,5 @@ def gnuplot(n):
 
 
 gnuplot(5)
+
+# gnuplot c:/gnuplot/teste/grafico.gnu
